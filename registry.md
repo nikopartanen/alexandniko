@@ -13,6 +13,7 @@
 - Sauvasekoitin / kitchen aid
 - Wine fridge
 - Uunivuokia
+- Keittiöpyyhkeitä
 
 ## Notes
 
