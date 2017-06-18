@@ -7,7 +7,7 @@ You can buy whatever you want to, it can be outside the registry,  but please re
 ## Permitted colors
 
 - Musta ja harmaa / Black and grey
-- Sininen, keltainen, punainen / Primary colours, faded/"dusty" primary colours
+- Sininen, keltainen, punainen, myös "haalistuneina" / Primary colours, faded/"dusty" primary colours
 - Vihreä (erityisesti jade, salvia, minttu) / Greens (esp. jade, sage, minty greens)
 - Oranssin sävyt / Oranges
 - Mustavalkoiset raidat / Black and white stripes
