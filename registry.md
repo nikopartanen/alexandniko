@@ -1,7 +1,7 @@
 ## Gift registry
 
 - 3d printer
-- cats
+- cats (not really)
 - High quality bath robes
 - Good cutleries
 - Spoons
