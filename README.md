@@ -9,7 +9,7 @@ Suomenlinna
 ## Lahjat / Gifts
 
 - [Lahjarekisteri / Gift registry](registry)
-- [Värimaailma / Color scheme](colors)
+- [Värimaailma / Color scheme](./colors)
 
 ## Tiedoksi / Practical info
 
