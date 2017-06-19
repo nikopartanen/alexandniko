@@ -8,7 +8,7 @@ You can buy whatever you want to, it can be outside the registry,  but please re
 
 - Musta ja harmaa / Black and grey
 
-<div style="height:100px;width:200px;background:#13b4ff">
+<div style="height:100px;width:200px;background:#13b4ff">test</div>
 
 - Sininen, keltainen, punainen, myös "haalistuneina" / Primary colours, faded/"dusty" primary colours
 - Vihreä (erityisesti jade, salvia, minttu) / Greens (esp. jade, sage, minty greens)
