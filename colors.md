@@ -4,7 +4,7 @@ Voit ostaa mitä lahjoja haluat, sen ei tarvitse olla listallamme, mutta olisi k
 
 You can buy whatever you want to, it can be outside the registry,  but please respect the color guidelines below.
 
-## Permitted colors
+## Hyvät värit / Permitted colors
 
 - Musta ja harmaa / Black and grey
 
@@ -19,7 +19,7 @@ You can buy whatever you want to, it can be outside the registry,  but please re
 - Oranssin sävyt / Oranges
 - Mustavalkoiset raidat / Black and white stripes
 
-## Discouraged colors
+## Huonot värit / Discouraged colors
 
 - Pinkki / Pink
 - Beige
