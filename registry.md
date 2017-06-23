@@ -1,7 +1,5 @@
 ## Gift registry
 
-- 3d printer
-- cats (not really)
 - High quality bath robes
 - Good cutleries
 - Spoons
@@ -14,6 +12,7 @@
 - Wine fridge
 - Uunivuokia
 - Keittiöpyyhkeitä
+- [3d printer (for example Malyan M200](https://hobbyking.com/en_us/malyan-metal-3d-printer-m200.html?___store=en_us)
 
 ## Notes
 
