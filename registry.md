@@ -19,3 +19,4 @@
 - If you buy outside the list, stick to the color scheme
 - Bed size is 160/200
 - Fitted sheet only
+- Several people buying one gift together is also highly encouraged, if some group wants to buy one bigger gift this way
