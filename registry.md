@@ -1,5 +1,7 @@
 ## Lahjarekisteri / Gift registry
 
+On mahdollista, että rekisteri tulee siirtymään jonnekin muualle. / It is possible that the registry will move somewhere else.
+
 Lahjaksi voi antaa myös rahaa, minkä lisäksi alla oleva lista on suuntaa-antava. / Cash is also appreciated as a gift, and the list is not definite.
 
 - ~~Laadukkaat kylpytakit / High quality bath robes~~
