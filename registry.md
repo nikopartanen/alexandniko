@@ -1,8 +1,16 @@
 ## Gift registry
 
-- ~~High quality bath robes~~
-- Good cutleries
-- Spoons
+- ~~Laadukkaat kylpytakit / High quality bath robes~~
+- Hyviä leikkuuveitsiä / Good cutleries
+- Leivänpaahdin / Toaster
+- Black Iittala Sarjaton mugs
+- Iittala Sarjalan plates
+- Hackman lion setti
+- Carelia coffee spoons
+- Ultima Thule glasses / schnapss-glasses
+- Stelton collar expresso pan
+- Tagine pan
+- Pasta machine
 - Sarpaneva-pannu
 - Iso päiväpeitto
 - parts of Lundia shelf
