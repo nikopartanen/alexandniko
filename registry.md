@@ -8,7 +8,7 @@
 - parts of Lundia shelf
 - Good frying pan
 - Power drill
-- Sauvasekoitin / kitchen aid
+- ~~Sauvasekoitin / kitchen aid~~
 - Wine fridge
 - Uunivuokia
 - Keittiöpyyhkeitä
