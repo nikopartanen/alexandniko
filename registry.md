@@ -1,6 +1,6 @@
 ## Gift registry
 
-- High quality bath robes
+- ~~High quality bath robes~~
 - Good cutleries
 - Spoons
 - Sarpaneva-pannu
