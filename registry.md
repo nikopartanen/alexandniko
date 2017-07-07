@@ -9,7 +9,7 @@ Lahjaksi voi antaa myös rahaa, minkä lisäksi alla oleva lista on suuntaa-anta
 - Leivänpaahdin / Toaster
 - Black Iittala Sarjaton mugs
 - Iittala Sarjalan plates
-- Hackman lion setti
+- [Hackman lion setti](http://www.hackman.fi/Tuotteet/Aterimet/Lion)
 - Carelia coffee spoons
 - Ultima Thule glasses / schnapss-glasses
 - Stelton collar expresso pan
