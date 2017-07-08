@@ -42,4 +42,4 @@ Suomenlinna is close to Helsinki center, so looking for accommodation close by c
 
 Suomenlinna is an island, but there is continuous ferry connection to the mainland. Tenalji von Fersen is a short walking distance away from the ferry. We have to leave Suomenlinna at 1 am. 
 
-<img id="right-corner" src="figure/Nouveau_voyage_en_Espagne_Fleuron_T147404-9.png" alt="corner image">
+<!-- <img id="right-corner" src="figure/Nouveau_voyage_en_Espagne_Fleuron_T147404-9.png" alt="corner image">-->
