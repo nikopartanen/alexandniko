@@ -41,3 +41,7 @@ Suomenlinna on saari, josta pääsee jatkuvasti lautalla mantereelle. Tenalji vo
 Suomenlinna is close to Helsinki center, so looking for accommodation close by can be useful. Some guests have already booked rooms in Scandic Marski.
 
 Suomenlinna is an island, but there is continuous ferry connection to the mainland. Tenalji von Fersen is a short walking distance away from the ferry. We have to leave Suomenlinna at 1 am. 
+
+<a id="right-corner" target="_blank">
+    <img src="figure/Nouveau_voyage_en_Espagne_Fleuron_T147404-9.png" alt="corner image">
+</a>
