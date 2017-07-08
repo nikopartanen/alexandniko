@@ -4,6 +4,10 @@ On mahdollista, että rekisteri tulee siirtymään jonnekin muualle. / It is pos
 
 Lahjaksi voi antaa myös rahaa, minkä lisäksi alla oleva lista on suuntaa-antava. / Cash is also appreciated as a gift, and the list is not definite.
 
+Jos annat jotain rekisteristä, niin ilmoita siitä groomsman Jeremias Laukkaselle, joten hän voi merkitä sen varatuksi. / If you choose to give something from the registry, please send and email to groomsman Jeremias Laukkanen, who will mark it as reserved.
+
+Jeremias Laukkanen: jeremias.laukkanen@gmail.com
+
 - ~~Laadukkaat kylpytakit / High quality bath robes~~
 - Hyviä leikkuuveitsiä / Good cutleries
 - Leivänpaahdin / Toaster
