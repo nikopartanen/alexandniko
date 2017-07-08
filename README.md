@@ -12,20 +12,20 @@ Please let us know if you need assistance moving from the ferry to the venue!
 
 Sopivia lauttoja perjantaina / Suitable ferries on Friday:
 
-14:40
-15:00
-15:30
+- 14:40
+- 15:00
+- 15:30
 
 Paluulauttojen lähtöaikoja / Departure times of the returning ferry:
 
-21:40
-22:00
-22:20
-23:00
-23:40
-0:40
-1:20
-2:00
+- 21:40
+- 22:00
+- 22:20
+- 23:00
+- 23:40
+- 0:40
+- 1:20
+- 2:00
 
 ## Lahjat / Gifts
 
