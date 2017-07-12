@@ -1,5 +1,7 @@
 # Alex & Niko
 
+<link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" >
+
 16:00 Tenalji von Fersen, Suomenlinna, Helsinki - 18.8.2017
 
 ## Paikka / Place
