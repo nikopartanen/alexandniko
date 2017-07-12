@@ -34,11 +34,11 @@ Paluulauttojen lähtöaikoja / Departure times of the returning ferry:
 
 ## Tiedoksi / Practical info
 
-Suomenlinna on lähellä Helsingin keskustaa, joten majoituksen etsiminen tältä suunnalta voi olla hyvä ajatus. Osa vieraista on jo varannut majoituksen Scandic Marski -hotellista.
+Suomenlinna on lähellä Helsingin keskustaa, joten majoituksen etsiminen tältä suunnalta voi olla hyvä ajatus. Osa vieraista on jo varannut majoituksen Scandic Marski -hotellista. Täältä voi varata huoneen alennetulla hinnalla osoitteesta marski@scandichotels.com, ja koodilla WED150817 voi saada ryhmäalennuksen.
 
 Suomenlinna on saari, josta pääsee jatkuvasti lautalla mantereelle. Tenalji von Ferseniin on pieni kävelymatka mukulakiviä pitkin laivalta. Meidän täytyy lähteä juhlatilasta klo 1 yöllä.
 
-Suomenlinna is close to Helsinki center, so looking for accommodation close by can be useful. Some guests have already booked rooms in Scandic Marski.
+Suomenlinna is close to Helsinki center, so looking for accommodation close by can be useful. Some guests have already booked rooms in Scandic Marski. It is possible to book rooms there with a reduced price using code WED150817, the email address is marski@scandichotels.com.
 
 Suomenlinna is an island, but there is continuous ferry connection to the mainland. Tenalji von Fersen is a short walking distance away from the ferry. We have to leave Suomenlinna at 1 am. 
 
