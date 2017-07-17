@@ -12,7 +12,7 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - Hyviä leikkuuveitsiä / Good cutleries
 - Leivänpaahdin / Toaster
 - Black Iittala Sarjaton mugs
-- Iittala Sarjalan plates
+- Iittala Sarjaton plates
 - [Hackman lion setti](http://www.hackman.fi/Tuotteet/Aterimet/Lion)
 - Carelia coffee spoons
 - Ultima Thule glasses / schnapss-glasses
