@@ -34,5 +34,5 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 
 - If you buy outside the list, stick to the color scheme
 - Bed size is 160/200
-- Fitted sheet only
+- Please note we do not use "top sheets" here, so fitted sheets are best (käytämme vain muotoonommeltuja lakanoita!)
 - Several people buying one gift together is also highly encouraged, if some group wants to buy one bigger gift this way
