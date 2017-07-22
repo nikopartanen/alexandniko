@@ -21,7 +21,7 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - Pasta machine
 - Sarpaneva-pannu
 - Iso päiväpeitto
-- parts of Lundia shelf
+- ~~parts of Lundia shelf~~
 - Good frying pan
 - Power drill
 - ~~Sauvasekoitin / kitchen aid~~
