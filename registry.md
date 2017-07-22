@@ -1,8 +1,6 @@
 ## Lahjarekisteri / Gift registry
 
-On mahdollista, että rekisteri tulee siirtymään jonnekin muualle. / It is possible that the registry will move somewhere else.
-
-Lahjaksi voi antaa myös rahaa, minkä lisäksi alla oleva lista on suuntaa-antava. / Cash is also appreciated as a gift, and the list is not definite.
+Lahjaksi voi antaa myös rahaa, minkä lisäksi alla oleva lista on suuntaa-antava. / Cash is also appreciated as a gift, and the list is not set in stone.
 
 Jos annat jotain rekisteristä, niin ilmoita siitä groomsman Jeremias Laukkaselle, joten hän voi merkitä sen varatuksi. / If you choose to give something from the registry, please send and email to groomsman Jeremias Laukkanen, who will mark it as reserved.
 
