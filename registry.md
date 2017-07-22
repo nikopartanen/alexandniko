@@ -25,7 +25,7 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - Good frying pan
 - Power drill
 - ~~Sauvasekoitin / kitchen aid~~
-- Wine fridge
+- [Viinijääkaappi / Wine fridge (esimerkiksi / for example)](http://www.caso-germany.com/en/products/cooling/peltier-technology/details/wineduett-21/)
 - Uunivuokia
 - ~~Keittiöpyyhkeitä~~
 - [3d printer (for example Malyan M200)](https://hobbyking.com/en_us/malyan-metal-3d-printer-m200.html?___store=en_us)
