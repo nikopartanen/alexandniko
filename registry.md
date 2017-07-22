@@ -11,22 +11,22 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - ~~Laadukkaat kylpytakit / High quality bath robes~~
 - Hyviä leikkuuveitsiä / Good cutleries
 - Leivänpaahdin / Toaster
-- Black Iittala Sarjaton mugs
-- Iittala Sarjaton plates
+- [Black/White / Mustavalkoisia Iittala Sarjaton Metsä mugs / kuppeja](https://store.iittala.fi/brandit/iittala/sarjaton-muki-metsa-036-l/p/a018616)
+- [Black/White / Mustavalkoisia Iittala Sarjaton Metsä plates / lautasia](https://store.iittala.fi/kattaminen/sarjaton-lautanen-metsa-26-cm/p/a016810)
 - [Hackman lion setti](http://www.hackman.fi/Tuotteet/Aterimet/Lion)
 - Carelia coffee spoons
 - Ultima Thule glasses / schnapss-glasses
 - Stelton collar expresso pan
 - Tagine pan
 - Pasta machine
-- Sarpaneva-pannu
+- [3l Sarpaneva-pannu / 3l Sarpaneva pot](https://store.iittala.fi/kattaminen/ruoanlaitto/sarpaneva-pata-puukahvalla-3-l/p/j300030)
 - Iso päiväpeitto
 - ~~parts of Lundia shelf~~
 - Good frying pan
 - Power drill
 - ~~Sauvasekoitin / kitchen aid~~
 - [Viinijääkaappi / Wine fridge (esimerkiksi / for example)](http://www.caso-germany.com/en/products/cooling/peltier-technology/details/wineduett-21/)
-- Uunivuokia
+- Kannellinen uunivuoka, esim. punainen tai sininen Le Creuset / Casserole dish with cover, e.g. red or blue Le Creuset
 - ~~Keittiöpyyhkeitä~~
 - [3d printer (for example Malyan M200)](https://hobbyking.com/en_us/malyan-metal-3d-printer-m200.html?___store=en_us)
 
