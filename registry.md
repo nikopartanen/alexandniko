@@ -6,6 +6,7 @@ Jos annat jotain rekisteristä, niin ilmoita siitä groomsman Jeremias Laukkasel
 
 Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 
+- [Vihervalo / Plant growing lamp](https://www.kekkila.fi/tuotteet/vihervalo/) 
 - ~~Laadukkaat kylpytakit / High quality bath robes~~
 - Hyviä leikkuuveitsiä / Good cutleries
 - Leivänpaahdin / Toaster
