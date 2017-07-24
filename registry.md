@@ -15,7 +15,7 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - [Hackman lion setti](http://www.hackman.fi/Tuotteet/Aterimet/Lion)
 - Carelia coffee spoons
 - [Ultima Thule laseja (varrellisia) / Ultima Thule glasses](https://store.iittala.fi/muotoilijat/tapio-wirkkala/ultima-thule-jalallinen-olutlasi-34-cl-2-kpl/p/k950072)
-- [Ultima Thule snapsilaseja / Ultima Thule shot glasses](https://store.iittala.fi/kattaminen/ultima-thule-ryyppylasi-5-cl-2-kpl/p/k950027)
+- ~~Ultima Thule snapsilaseja / Ultima Thule shot glasses](https://store.iittala.fi/kattaminen/ultima-thule-ryyppylasi-5-cl-2-kpl/p/k950027)~~
 - [Stelton collar expresso pan](https://www.stelton.com/en/collar-espresso-brewer-steel-p-3975)
 - Taginepannu / Tagine pan
 - Pastakone / Pasta machine
