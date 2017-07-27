@@ -9,7 +9,7 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - [Vihervalo / Plant growing lamp](https://www.kekkila.fi/tuotteet/vihervalo/) 
 - ~~Laadukkaat kylpytakit / High quality bath robes~~
 - Hyviä leikkuuveitsiä / Good cutleries
-- Leivänpaahdin / Toaster
+- ~~Leivänpaahdin / Toaster~~
 - [Black/White / Mustavalkoisia Iittala Sarjaton Metsä mugs / kuppeja](https://store.iittala.fi/brandit/iittala/sarjaton-muki-metsa-036-l/p/a018616)
 - [Black/White / Mustavalkoisia Iittala Sarjaton Metsä plates / lautasia](https://store.iittala.fi/kattaminen/sarjaton-lautanen-metsa-26-cm/p/a016810)
 - [Hackman lion setti](http://www.hackman.fi/Tuotteet/Aterimet/Lion)
