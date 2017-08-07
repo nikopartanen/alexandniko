@@ -12,7 +12,7 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - ~~Leivänpaahdin / Toaster~~
 - [Black/White / Mustavalkoisia Iittala Sarjaton Metsä mugs / kuppeja](https://store.iittala.fi/brandit/iittala/sarjaton-muki-metsa-036-l/p/a018616)
 - [Black/White / Mustavalkoisia Iittala Sarjaton Metsä plates / lautasia](https://store.iittala.fi/kattaminen/sarjaton-lautanen-metsa-26-cm/p/a016810)
-- [Hackman lion setti](http://www.hackman.fi/Tuotteet/Aterimet/Lion)
+- ~~[Hackman lion setti](http://www.hackman.fi/Tuotteet/Aterimet/Lion)~~
 - Carelia coffee spoons
 - [Ultima Thule laseja (varrellisia) / Ultima Thule glasses](https://store.iittala.fi/muotoilijat/tapio-wirkkala/ultima-thule-jalallinen-olutlasi-34-cl-2-kpl/p/k950072)
 - ~~Ultima Thule snapsilaseja / Ultima Thule shot glasses](https://store.iittala.fi/kattaminen/ultima-thule-ryyppylasi-5-cl-2-kpl/p/k950027)~~
