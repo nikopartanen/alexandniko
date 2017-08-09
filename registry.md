@@ -17,7 +17,7 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - Carelia coffee spoons
 - [Ultima Thule laseja (varrellisia) / Ultima Thule glasses](https://store.iittala.fi/muotoilijat/tapio-wirkkala/ultima-thule-jalallinen-olutlasi-34-cl-2-kpl/p/k950072)
 - ~~Ultima Thule snapsilaseja / Ultima Thule shot glasses](https://store.iittala.fi/kattaminen/ultima-thule-ryyppylasi-5-cl-2-kpl/p/k950027)~~
-- [Stelton collar expresso pan](https://www.stelton.com/en/collar-espresso-brewer-steel-p-3975)
+- ~~[Stelton collar expresso pan](https://www.stelton.com/en/collar-espresso-brewer-steel-p-3975)~~
 - Taginepannu / Tagine pan
 - Pastakone / Pasta machine
 - [3l Sarpaneva-pannu / 3l Sarpaneva pot](https://store.iittala.fi/kattaminen/ruoanlaitto/sarpaneva-pata-puukahvalla-3-l/p/j300030)
@@ -27,7 +27,7 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - Power drill
 - ~~Sauvasekoitin / kitchen aid~~
 - ~~[Viinijääkaappi / Wine fridge (esimerkiksi linkissä oleva malli / for example one in link)](http://www.caso-germany.com/en/products/cooling/peltier-technology/details/wineduett-21/)~~
-- Kannellinen uunivuoka, esim. punainen tai sininen Le Creuset / Casserole dish with cover, e.g. red or blue Le Creuset
+- ~~Kannellinen uunivuoka, esim. punainen tai sininen Le Creuset / Casserole dish with cover, e.g. red or blue Le Creuset~~
 - ~~Keittiöpyyhkeitä~~
 - [3d printer (for example Malyan M200)](https://hobbyking.com/en_us/malyan-metal-3d-printer-m200.html?___store=en_us)
 
