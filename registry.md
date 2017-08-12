@@ -24,7 +24,7 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - Iso päiväpeitto
 - ~~parts of Lundia shelf~~
 - Good frying pan
-- Power drill
+- Akkuporakone / Power drill
 - ~~Sauvasekoitin / kitchen aid~~
 - ~~[Viinijääkaappi / Wine fridge (esimerkiksi linkissä oleva malli / for example one in link)](http://www.caso-germany.com/en/products/cooling/peltier-technology/details/wineduett-21/)~~
 - ~~Kannellinen uunivuoka, esim. punainen tai sininen Le Creuset / Casserole dish with cover, e.g. red or blue Le Creuset~~
