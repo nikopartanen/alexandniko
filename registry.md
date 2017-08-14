@@ -20,7 +20,7 @@ Jeremias Laukkanen: jeremias.laukkanen@gmail.com
 - ~~[Stelton collar expresso pan](https://www.stelton.com/en/collar-espresso-brewer-steel-p-3975)~~
 - Taginepannu / Tagine pan
 - Pastakone / Pasta machine
-- [3l Sarpaneva-pannu / 3l Sarpaneva pot](https://store.iittala.fi/kattaminen/ruoanlaitto/sarpaneva-pata-puukahvalla-3-l/p/j300030)
+- ~~[3l Sarpaneva-pannu / 3l Sarpaneva pot](https://store.iittala.fi/kattaminen/ruoanlaitto/sarpaneva-pata-puukahvalla-3-l/p/j300030)~~
 - Iso päiväpeitto
 - ~~parts of Lundia shelf~~
 - Good frying pan
